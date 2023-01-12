@@ -1,2 +1,2 @@
 # github_demo_repo
-Learning git
+This is a repo for learning git
